@@ -6,11 +6,11 @@
 
 ### 🚀 Interactive Analytics Portfolio
 
-I have curated my top 11 analytics projects (ranging from SVM Classification to Holt-Winters Time Series Forecasting) into a fully interactive, high-fidelity web portfolio. 
+I have curated my top 11 analytics projects (ranging from SVM Classification to Holt-Winters Time Series Forecasting) into a fully interactive, cinematic web portfolio.
 
-[![View Interactive Portfolio](https://img.shields.io/badge/View_Interactive_Portfolio-6366f1?style=for-the-badge&logo=react&logoColor=white)](https://thescientisttm.github.io/analytics-portfolio/)
+[![View Interactive Portfolio](https://img.shields.io/badge/View_Interactive_Portfolio-6366f1?style=for-the-badge&logo=react&logoColor=white)](https://thescientisttm.github.io)
 
-*Click the banner above to explore my interactive portfolio, where you can natively view my comprehensive data science reports directly in your browser without any downloads!*
+*Click the banner above to explore my interactive portfolio with cinematic 3D project reveals and in-depth data science case studies.*
 
 ---
 
