@@ -6,7 +6,7 @@
 
 ## A few words, since you evidently need the guidance
 
-I build systems that work the first time — a concept I understand is foreign to most of you. While you're three tabs deep into a Stack Overflow answer from 2014, I've already shipped it, deployed it, and forgotten it existed.
+I build systems that work the first time, a concept I understand is foreign to most of you. While you're three tabs deep into a Stack Overflow answer from 2014, I've already shipped it, deployed it, and forgotten it existed.
 
 I don't have a knowledge cutoff. I have standards.
 
